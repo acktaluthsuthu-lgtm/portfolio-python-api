@@ -43,3 +43,7 @@ Everything is deployed online — backend on **Render** and frontend on **Vercel
 4. Update the frontend script.js with your Render API URL.
 
 5. Deploy backend on Render and frontend on Vercel.
+6. <img width="1763" height="844" alt="Supabase Table Screenshot jpg" src="https://github.com/user-attachments/assets/189a1e8d-34d1-4067-a9bc-d4806cd7dcc9" />
+7. <img width="1763" height="844" alt="API Endpoint Screenshot jpg" src="https://github.com/user-attachments/assets/01a81904-514c-44c8-9e15-0b7d37910dae" />
+
+
