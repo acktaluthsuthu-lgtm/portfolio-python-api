@@ -47,3 +47,22 @@ Everything is deployed online — backend on **Render** and frontend on **Vercel
 7. <img width="1763" height="844" alt="API Endpoint Screenshot jpg" src="https://github.com/user-attachments/assets/01a81904-514c-44c8-9e15-0b7d37910dae" />
 
 
+## 📚 References & AI Tools Used
+
+### 🤖 AI Tools
+- **Microsoft Copilot** → Deployment troubleshooting, Supabase integration guidance, README drafting.  
+- **ChatGPT (OpenAI)** → Code explanations, FastAPI examples, debugging support.  
+- **Gemini (Google AI)** → Alternative backend suggestions, Supabase queries.  
+- **GitHub Copilot** → Inline coding assistance in VS Code.  
+- **Claude (Anthropic)** → Brainstorming and refining documentation.  
+- **Perplexity AI** → Quick fact-checking and additional references.  
+
+### 🎥 YouTube Tutorials
+- FastAPI basics and deployment guides.  
+- Supabase table setup and API integration walkthroughs.  
+- Render deployment troubleshooting (Python vs Ruby environment detection).  
+- Vercel frontend deployment tutorials.  
+
+
+
+
